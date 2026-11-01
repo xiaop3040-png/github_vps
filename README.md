@@ -5,6 +5,23 @@
 
 在 GitHub 上申请免费的 VPS。
 
+## Overview
+
+A collection of scripts and deployment notes for experimenting with Linux and Windows development environments in GitHub-hosted workflows. This repository is intended for learning and testing, not as a production hosting solution.
+
+### Highlights
+
+- Linux and Windows environment examples
+- Remote-access setup notes for SSH, RDP, and web terminals
+- Configurable runtime credentials and deployment parameters
+- Security guidance in [SECURITY.md](SECURITY.md)
+
+> **Responsible use:** Follow GitHub's service terms and usage limits. Do not use default credentials or expose administrative interfaces to the public Internet.
+
+---
+
+
+
 > 图文教程：https://mp.weixin.qq.com/s/vnA2AXD5zXiXGJNPdNH0BA
 
 ## 创建示例
