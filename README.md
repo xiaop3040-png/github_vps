@@ -1,5 +1,8 @@
 # github_vps
 
+> [!WARNING]
+> **Security notice:** The usernames and passwords shown below are examples/defaults, not safe production credentials. Never expose SSH (22), RDP (3389), web terminals (4200), or management panels (8006) to the public Internet with default passwords. Set unique strong credentials before connecting, prefer SSH keys and a private VPN such as Tailscale, and review [SECURITY.md](SECURITY.md).
+
 在 GitHub 上申请免费的 VPS。
 
 > 图文教程：https://mp.weixin.qq.com/s/vnA2AXD5zXiXGJNPdNH0BA
